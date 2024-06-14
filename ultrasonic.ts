@@ -19,7 +19,7 @@ https://github.com/sparkfun/Zio-Qwiic-Ultrasonic-Distance-Sensor/blob/master/Ard
 
 
     //% group="Qwiic Ultrasonic Distance Sensor"
-    //% block="beim Start I²C %newI2C"
+    //% block="I²C Adresse %newI2C"
     //% newI2C.min=160 newI2C.max=175
     export function beimStart(newI2C: number) {
         if (newI2C >= 0xA0 && newI2C <= 0xAF) {
