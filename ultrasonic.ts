@@ -1,5 +1,5 @@
 
-//% color=#E0311D icon="\uf108" block="Ultraschall" weight=13
+//% color=#E0311D icon="\u2194" block="Ultraschall" weight=13
 namespace ultrasonic
 /*
 SparkFun Qwiic Ultrasonic Distance Sensor (HC-SR04)
