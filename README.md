@@ -1,22 +1,10 @@
 
 > Diese Seite bei [https://calliope-net.github.io/ultrasonic/](https://calliope-net.github.io/ultrasonic/) öffnen
 
-## Als Erweiterung verwenden
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+[Qwiic Ultrasonic Distance Sensor (HC-SR04) Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-ultrasonic-distance-sensor-hc-sr04-hookup-guide)
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/calliope-net/ultrasonic** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build status badge](https://github.com/calliope-net/ultrasonic/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/calliope-net/ultrasonic** ein und klicke auf Importieren
+![](https://cdn.sparkfun.com/r/500-500/assets/parts/1/6/9/1/6/17777-SparkFun_Qwiic_Ultrasonic_Distance_Sensor_-_HC-SR04-01.jpg)
 
 ## Blocks preview
 
@@ -24,8 +12,3 @@ This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/calliope-net/ultrasonic/raw/master/.github/makecode/blocks.png)
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
